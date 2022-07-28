@@ -1,0 +1,30 @@
+{
+  "user": {
+      "customer": "Hermoine Granger"
+  },
+  "deposit": {
+      "amount1": "2500",
+      "amount2": "50000",
+      "amount3": "10"
+  },
+  "withdraw": {
+    "amount1": "1500",
+    "amount2": "8000",
+    "amount3": "150"
+  },
+  "account": {
+    "number1": "1001",
+    "number2": "1002",
+    "number3": "1003"
+  },
+  "addcustomer": {
+    "firstname": "Braylin",
+    "lastname": "Ovalles",
+    "postalcode": "40202"
+  },
+  "currency": {
+    "dollar": "Dollar",
+    "pound": "Pound",
+    "rupee": "Rupee"
+  }
+}
